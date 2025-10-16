@@ -238,6 +238,6 @@ if __name__ == "__main__":
 
 ## 版权声明 (Copyright Notice)
 
-Copyright (c) 2025 [vuotoviaggiatore]. All Rights Reserved.
+Copyright (c) 2025 [Siqi MIAO]. All Rights Reserved.
 
 本仓库中的所有代码、文档及相关资源，未经作者明确书面许可，任何人不得复制、修改、分发或用于任何商业目的。
