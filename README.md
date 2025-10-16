@@ -83,8 +83,6 @@ This is a GUI desktop tool developed with Python and Tkinter, designed to help r
 
 ## 源代码
 
-\<details\>
-\<summary\>点击展开/折叠 \<b\>创建项目文件夹.py\</b\> 的代码\</summary\>
 
 ```python
 import os
@@ -235,8 +233,6 @@ if __name__ == "__main__":
     root.mainloop()
 
 ```
-
-\</details\>
 
 -----
 
